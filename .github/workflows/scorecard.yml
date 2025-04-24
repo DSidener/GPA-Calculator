@@ -2,7 +2,7 @@ name: OpenSSF Scorecard
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs weekly
+    - cron: '0 0 * * 0' # Weekly on Sunday
   push:
     branches: [main]
   workflow_dispatch:
@@ -16,8 +16,8 @@ jobs:
       security-events: write
 
     steps:
-      - name: Run Scorecard analysis
-        uses: ossf/scorecard-action@v2.1.6
+      - name: Run Scorecard
+        uses: ossf/scorecard-action@main
         with:
           results_file: results.sarif
           results_format: sarif
