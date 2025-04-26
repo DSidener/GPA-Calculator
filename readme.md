@@ -14,7 +14,7 @@ Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
-
+This project is distributed through GitHub using HTTPS.
 
 Developer's Certificate of Origin 1.1
 
