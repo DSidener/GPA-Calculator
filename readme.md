@@ -5,6 +5,7 @@ Only needs a C++ compiler to run.
 This project is maintained by Dalton Sidener.  
 Decisions about the project are made by the maintainer. Contributions, bug reports, and feature suggestions are welcome through GitHub Issues and Pull Requests.  
 Maintainers review submissions and decide on acceptance by consensus.
+In the event the maintainer becomes unavailable, project contributors or interested parties may fork this repository and continue development. All code is licensed under an open FLOSS license to permit this.
 
 Developer Certificate of Origin
 Version 1.1
