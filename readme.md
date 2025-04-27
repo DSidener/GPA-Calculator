@@ -1,3 +1,4 @@
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10488/badge)](https://www.bestpractices.dev/projects/10488)
 # GPA Calculator where you can enter your per class grades to calculate your total GPA
 Only needs a C++ compiler to run.
 ## Project Governance
@@ -48,6 +49,5 @@ By making a contribution to this project, I certify that:
     personal information I submit with it, including my sign-off) is
     maintained indefinitely and may be redistributed consistent with
     this project or the open source license(s) involved.
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10488/badge)](https://www.bestpractices.dev/projects/10488)
 
 
