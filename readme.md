@@ -48,6 +48,6 @@ By making a contribution to this project, I certify that:
     personal information I submit with it, including my sign-off) is
     maintained indefinitely and may be redistributed consistent with
     this project or the open source license(s) involved.
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/YOUR-USERNAME/YOUR-REPO/badge)](https://securityscorecards.dev/viewer/?uri=github.com/YOUR-USERNAME/YOUR-REPO)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/DSidener/GPA-Calculator/badge)](https://securityscorecards.dev/viewer/?uri=github.com/DSidener/GPA-Calculator/)
 
 
