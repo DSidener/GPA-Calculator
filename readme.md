@@ -9,6 +9,13 @@ In the event the maintainer becomes unavailable, project contributors or interes
 Please submit any vulernabilities to dsidener10@gmail.com
 Developer Certificate of Origin
 Version 1.1
+## Static Code Analysis Policy
+
+Before any major production release, this project applies static code analysis using [cppcheck](http://cppcheck.sourceforge.net/) to detect potential issues in the source code.
+
+Cppcheck is a free and open-source tool that analyzes C++ code for bugs, undefined behavior, memory leaks, and other defects beyond what typical compiler warnings provide.
+
+All critical issues reported by cppcheck must be reviewed and addressed before a production release.
 
 Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
 
