@@ -1,6 +1,7 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10488/badge)](https://www.bestpractices.dev/projects/10488)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/DSidener/GPA-Calculator/badge)](https://securityscorecards.dev/viewer/?uri=github.com/DSidener/GPA-Calculator)
 
+
 # GPA Calculator where you can enter your per class grades to calculate your total GPA
 Only needs a C++ compiler to run.
 ## Project Governance
